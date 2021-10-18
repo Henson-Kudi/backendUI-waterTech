@@ -1,9 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 import app from './firbase'
 import './App.css';
-import {baseURL} from './axios'
 import logo from './components/images/logo.png';
-import { async } from 'q';
 
 const db = app.firestore()
 
