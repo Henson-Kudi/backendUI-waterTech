@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/backendUI-waterTech/static/css/main.8457397e.chunk.css",
+    "main.js": "/backendUI-waterTech/static/js/main.a4b16d58.chunk.js",
+    "main.js.map": "/backendUI-waterTech/static/js/main.a4b16d58.chunk.js.map",
+    "runtime-main.js": "/backendUI-waterTech/static/js/runtime-main.ff84f783.js",
+    "runtime-main.js.map": "/backendUI-waterTech/static/js/runtime-main.ff84f783.js.map",
+    "static/js/2.091520cb.chunk.js": "/backendUI-waterTech/static/js/2.091520cb.chunk.js",
+    "static/js/2.091520cb.chunk.js.map": "/backendUI-waterTech/static/js/2.091520cb.chunk.js.map",
+    "index.html": "/backendUI-waterTech/index.html",
+    "static/css/main.8457397e.chunk.css.map": "/backendUI-waterTech/static/css/main.8457397e.chunk.css.map",
+    "static/js/2.091520cb.chunk.js.LICENSE.txt": "/backendUI-waterTech/static/js/2.091520cb.chunk.js.LICENSE.txt",
+    "static/media/logo.27956032.png": "/backendUI-waterTech/static/media/logo.27956032.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff84f783.js",
+    "static/js/2.091520cb.chunk.js",
+    "static/css/main.8457397e.chunk.css",
+    "static/js/main.a4b16d58.chunk.js"
+  ]
+}
